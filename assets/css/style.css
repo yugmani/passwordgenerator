@@ -1,0 +1,56 @@
+body html {
+    background-color:#FFFFFF;
+    margin:0;
+    padding:0;
+}
+
+.content {
+    width:80%;
+    height:300px;
+    
+     padding:5px;
+        text-align: center;
+        background-color:#F9FBFD;
+        margin:5% auto;
+}
+
+.wrapper {
+ 
+    width:100%;
+    height:200px;
+    margin:5% auto;
+    padding:5px; 
+   
+    background-color:#FFFFFF;
+}
+
+#textBox {
+    width:100%;
+}
+
+
+
+.inBox {
+   
+    border:1px black dashed;
+}
+
+#increment {
+
+    float:left;
+}
+
+#clip {
+    position:relative;
+    float:right;
+}
+
+.coter {
+    margin:10px;
+    padding:0px;
+}
+
+#countPass {
+    margin:10px;
+    padding:5px auto;
+}
